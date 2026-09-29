@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -2224,8 +2224,10 @@
     "file": "Touhou 8 Imperishable Night/Cinderella Cage ~ Kagome-Kagome.mmrs",
     "preview": "https://www.youtube.com/watch?v=ye7RSS3Uh-Q",
     "lufs": "-15.24",
-    "hash": "e817320cd45b7d4242a36b903ec0d80b",
-    "lastUpdateDate": "2026-09-29T21:49:49.966Z"
+    "hash": "cdc378304ee8b3514b972f3171c100a8",
+    "lastUpdateDate": "2026-09-29T21:49:49.966Z",
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "4626df5f-ca67-429c-9780-8117e1c4043e",
