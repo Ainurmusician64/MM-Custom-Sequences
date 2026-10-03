@@ -97571,5 +97571,29 @@
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (OG).mp3"
   },
+  {
+    "uuid": "76c671ef-9932-4738-b8cc-8147ebfe0603",
+    "creationDate": "2026-10-03T20:01:29.731Z",
+    "game": "Bomberman 64",
+    "song": "Blue TM Resort (OG Lite)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "Uses almost exclusively BM64 Instruments and Drumkit",
+    "lufs": "-16.92",
+    "file": "Bomberman 64/Blue TM Resort (OG Lite).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "Bomberman 64/Blue TM Resort (OG Lite).mp3"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
