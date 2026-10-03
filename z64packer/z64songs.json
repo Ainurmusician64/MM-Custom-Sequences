@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -97546,6 +97546,30 @@
     "preview": "ULTRAKILL/War Without Reason (OST Order).mp3",
     "usesFormmask": false,
     "hash": "f0a1cb0ecbbcf1d228865608039ef8ce"
+  },
+  {
+    "uuid": "0274aea5-af14-40d8-bad6-26b03293f9d2",
+    "creationDate": "2026-10-03T19:55:30.017Z",
+    "game": "Bomberman 64",
+    "song": "Blue TM Resort (OG)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "Uses exclusively BM64 Instruments",
+    "lufs": "-16.95",
+    "file": "Bomberman 64/Blue TM Resort (OG).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "Bomberman 64/Blue TM Resort (OG).mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
