@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "uuid": "8047b2be-5e50-4c31-bf2d-1adf09349e36",
     "creationDate": "2026-02-23T16:54:40.535Z",
@@ -97546,6 +97546,125 @@
     "preview": "ULTRAKILL/War Without Reason (OST Order).mp3",
     "usesFormmask": false,
     "hash": "f0a1cb0ecbbcf1d228865608039ef8ce"
+  },
+  {
+    "uuid": "0274aea5-af14-40d8-bad6-26b03293f9d2",
+    "creationDate": "2026-10-03T19:55:30.017Z",
+    "game": "Bomberman 64",
+    "song": "Blue TM Resort (OG)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "Uses exclusively BM64 Instruments",
+    "lufs": "-16.95",
+    "file": "Bomberman 64/Blue TM Resort (OG).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "Bomberman 64/Blue TM Resort (OG).mp3"
+  },
+  {
+    "uuid": "76c671ef-9932-4738-b8cc-8147ebfe0603",
+    "creationDate": "2026-10-03T20:01:29.731Z",
+    "game": "Bomberman 64",
+    "song": "Blue TM Resort (OG Lite)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "Uses almost exclusively BM64 Instruments and Drumkit",
+    "lufs": "-16.92",
+    "file": "Bomberman 64/Blue TM Resort (OG Lite).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "Bomberman 64/Blue TM Resort (OG Lite).mp3"
+  },
+  {
+    "uuid": "10016fcf-cd32-4eee-8cf2-0e6c244fd5c2",
+    "creationDate": "2026-10-03T20:08:55.025Z",
+    "game": "Bomberman 64",
+    "song": "Blue TM Resort (MM Lite)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "Uses mostly vanilla MM instruments and a full BM64 drumkit",
+    "lufs": "-16.50",
+    "file": "Bomberman 64/Blue TM Resort (MM Lite).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "preview": "Bomberman 64/Blue TM Resort (MM Lite).mp3"
+  },
+  {
+    "uuid": "68fc59ed-b81e-4f1a-b345-73f08bdecbea",
+    "creationDate": "2026-10-03T20:13:14.030Z",
+    "game": "Bomberman 64",
+    "song": "Blue TM Resort (MM)",
+    "composers": [
+      "Akifumi Tada"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "Uses exclusively vanilla MM instruments",
+    "lufs": "-18.51",
+    "file": "Bomberman 64/Blue TM Resort (MM).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "Bomberman 64/Blue TM Resort (MM).mp3"
+  },
+  {
+    "uuid": "4a66ada9-2c9d-4d21-93f0-36b6c22517ac",
+    "creationDate": "2026-10-03T20:19:35.396Z",
+    "game": "Bomberman 64",
+    "song": "Blue TM Resort (MM Plus)",
+    "composers": [
+      "Akifumi Tada",
+      "Ainurmusician64"
+    ],
+    "converters": [
+      "Ainurmusician64"
+    ],
+    "notes": "Uses exclusively vanilla MM instruments. I composed and arranged some new drum parts for the middle section of the song.",
+    "lufs": "-18.36",
+    "file": "Bomberman 64/Blue TM Resort (MM Plus).mmrs",
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1",
+      "4"
+    ],
+    "usesCustomBank": true,
+    "preview": "Bomberman 64/Blue TM Resort (MM Plus).mp3"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
