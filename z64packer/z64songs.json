@@ -101436,7 +101436,7 @@
     "converters": [
       "Ainurmusician64"
     ],
-    "notes": "Uses exclusively BM64 Instruments",
+    "notes": "Uses exclusively BM64 Instruments. The joke is \"Corridors of Time\" from Chrono Trigger.",
     "lufs": "-16.95",
     "file": "Bomberman 64/Blue TM Resort (OG).mmrs",
     "type": "bgm",
@@ -101449,7 +101449,7 @@
     "usesCustomSamples": true,
     "preview": "Bomberman 64/Blue TM Resort (OG).mp3",
     "hash": "22a860ca881bd938e6d93c9a4c1c57bf",
-    "lastUpdateDate": "2026-10-08T05:11:43.655Z"
+    "lastUpdateDate": "2026-10-08T05:18:22.181Z"
   },
   {
     "uuid": "76c671ef-9932-4738-b8cc-8147ebfe0603",
