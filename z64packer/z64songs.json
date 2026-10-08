@@ -101513,7 +101513,9 @@
     "game": "Bomberman 64",
     "song": "Blue TM Resort (MM)",
     "composers": [
-      "Akifumi Tada"
+      "Akifumi Tada",
+      "Yasunori Mitsuda",
+      "SiivaGunner"
     ],
     "converters": [
       "Ainurmusician64"
@@ -101529,10 +101531,8 @@
     ],
     "usesCustomBank": true,
     "preview": "Bomberman 64/Blue TM Resort (MM).mp3",
-    "usesCustomSamples": false,
-    "usesFormmask": false,
     "hash": "66cee4f2159db54c7f7e3180a7476f06",
-    "isCrossGame": false
+    "lastUpdateDate": "2026-10-08T05:15:43.877Z"
   },
   {
     "uuid": "4a66ada9-2c9d-4d21-93f0-36b6c22517ac",
